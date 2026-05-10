@@ -42,6 +42,6 @@ VK_Chess_web/                # корневая папка проекта
 ## Лицензия
 MIT
 ## Благодарности
-Lichess API [https://lichess.org/api] – за возможность играть онлайн
-thc – за лёгкий шахматный движок
-TFT_eSPI – за библиотеку для дисплея
+[Lichess API] (https://lichess.org/api) – за возможность играть онлайн
+[THC] (https://github.com/billforsternz/thc-chess-library) – за лёгкий шахматный движок
+[TFT_eSPI] (https://github.com/Bodmer/TFT_eSPI) – за библиотеку для дисплея
